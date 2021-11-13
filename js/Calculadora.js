@@ -5,7 +5,7 @@ class Calculadora {
 
     sumar(a, b) {
         this.resultado = a + b;
-        return resultado.toFixed(2);
+        return this.resultado.toFixed(2);
     }
 
     restar(a, b) {
