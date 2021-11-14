@@ -1,5 +1,7 @@
 # Calculadora Funcional
 
+*¡Hola, hola!* 👋
+
 Este es mi primer trabajo realizado completamente con HTML CSS y JavaScript. 
 Es la primera vez que puedo ver cómo es que las *Clases* y la *Programación Orientada a Objetos* funciona en un proyecto integrador como este.
 
