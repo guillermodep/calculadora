@@ -11,5 +11,5 @@ Echale un vistazo al resultado final 👇
 <img src="https://github.com/lautaronahuelc/calculadora/blob/master/captura-resultado-final.png"/>
 
 *¿Querés probar la aplicación?* [Clik here!](https://violet-calculator.netlify.app/) 👈
-
+***
 [VER MAS PROYECTOS](https://github.com/lautaronahuelc?tab=repositories)
