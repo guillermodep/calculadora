@@ -2,16 +2,15 @@
 
 *¡Hola, hola!* 👋
 
-Este es mi primer trabajo realizado completamente con HTML CSS y JavaScript. 
-Es la primera vez que puedo ver cómo es que las *Clases* y la *Programación Orientada a Objetos* funciona en un proyecto integrador como este.
+Llegó mi tiempo de presentar la tan famosa calculadora realizada con JavaScript por la que todos/as pasamos cuando nos estamos familiarizando con el lenguaje.
 
-Esta calculadora puede realizar operaciones simples como sumar, restar, multiplicar y dividir.
-Fue muy satisfactorio para mí (y sigue siéndolo) empezar a ver cómo todo lo estudiado y las horas delante de la PC empiezan a dar frutos 🍓
+Feliz porque es la primera vez que utilizo los tres lenguajes principales para aprender desarrollo Front-End (HTML, CSS y JavaScript). Parace poco pero es todo un logro para mí. 💪
+
+*¿Querés probar la aplicación?* [Clik here!](https://violet-calculator.netlify.app/) 👈
 
 Echale un vistazo al resultado final 👇
 
 <img src="https://github.com/lautaronahuelc/calculadora/blob/master/captura-resultado-final.png"/>
 
-*¿Querés probar la aplicación?* [Clik here!](https://violet-calculator.netlify.app/) 👈
 ***
 [VER MAS PROYECTOS](https://github.com/lautaronahuelc?tab=repositories)
