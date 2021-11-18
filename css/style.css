@@ -46,13 +46,14 @@ body {
     border-radius: 25px;
     background-color: #3F3351;
 }
-
-#valor-anterior {
-    font-size: 2rem;
-}
-
+ 
+#valor-anterior,
 #valor-actual {
     font-size: 1.3rem;
+}
+
+#valor-anterior {
+    color: #e9a6a6;
 }
 
 .span-2 {
