@@ -1,5 +1,5 @@
-const displayValorAnterior = document.querySelector('.valor-anterior');
-const displayValorActual = document.querySelector('.valor-actual');
+const displayValorAnterior = document.querySelector('#valor-anterior');
+const displayValorActual = document.querySelector('#valor-actual');
 const botonesNumeros = document.querySelectorAll('.numero');
 const botonesOperadores = document.querySelectorAll('.operador');
 

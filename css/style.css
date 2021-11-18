@@ -47,11 +47,11 @@ body {
     background-color: #3F3351;
 }
 
-.valor-anterior {
+#valor-anterior {
     font-size: 2rem;
 }
 
-.valor-actual {
+#valor-actual {
     font-size: 1.3rem;
 }
 
@@ -74,5 +74,6 @@ button:hover{
 }
 
 button:active {
-    background-color: rgba(0, 0, 0, 0.2);
+    background-color: rgba(0, 0, 0, 0.1);
+    box-shadow: none;
 }
